@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "leaflet": "^1.9.4",
     "next": "15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-globe.gl": "^2.33.2",
+    "react-leaflet": "^5.0.0",
     "three": "^0.175.0"
   },
   "devDependencies": {
